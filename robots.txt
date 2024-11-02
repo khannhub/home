@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Disallow:
+Sitemap: https://khannhub.github.io/home/sitemap.xml
